@@ -10,19 +10,14 @@ public class Task5 {
 
     private static int sum(int firstDigit, int secondDigit) {
         int sum = 0;
-        /*for (int i = firstDigit; i <= secondDigit; i++){
+        for (int i = firstDigit; i <= secondDigit; i++){
             sum += i;
         }
         return sum;
 
 
 
-        while (firstDigit <= secondDigit){
-            sum =+firstDigit;
-            firstDigit++;
-        }
-        return sum;
-        */
+
 
 
     }
