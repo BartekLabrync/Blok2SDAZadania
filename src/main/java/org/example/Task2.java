@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Task2 {
     //private static final float PI = 3.14F;
-    private static final double  PI = 3.14F;
+    private static final double  PI = Math.PI;
 
     public static void main (String[] args){
         float radius = getDiameterFromUser() / 2;
