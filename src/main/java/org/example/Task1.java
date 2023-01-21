@@ -3,7 +3,7 @@ package org.example;
 public class Task1 {
     public static void main (String[] args){
     displayWordUsignDecimalFormat();
-    System.out.println();
+        System.out.println();
     displayWordUsignBinaryFormat();
         System.out.println();
     displayWordUsignHexFormat();
